@@ -1,0 +1,26 @@
+Esercizio Boolean
+Fare la spesa seguendo una lista 
+Fatti mandare dalla mamma a prendere il latte 
+Nel frigo si inizia a sentire l’eco, perciò è ora di fare rifornimenti! Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca in una lista, così una volta al supermercato, girando tra gli scaffali, posso verificare di aver preso tutto e Ricky non rimane senza crocchette come l’ultima volta, povero! Devo ricordarmi di usare il coupon che scade a fine mese, per il resto dovrebbero bastarmi i contanti che ho in portafogli, sempre se non mi faccio prendere la mano con gli snack extra! 
+
+EXERCISE
+    Controllo il frigo
+    Faccio la lista dei prodotti che mancano
+    SE il frigo è vuoto 
+    Prendo il coupon delle crocchette e lo metto nel portafoglio
+    Vado al supermercato
+    Faccio un giro per gli scaffali
+    Metto i prodotti segnati sulla lista nel carrello
+        SE ci sono le crocchette
+            Le metto nel carrello
+            Ricontrollo la spesa e faccio due conti
+            SE Ho abbastanza contanti
+                Metto gli snack extra nel carrello
+                Mi reco in cassa
+                Mostro il coupon per gli crocchette e pago
+                Metto la spesa nelle buste
+                Vado a casa
+                Metto i prodotti al loro posto
+            ALTRIMENTI Non compro gli snack extra
+        ALTRIMENTI Le cerco da un'altra parte
+    ALTRIMENTI Non vado a fare la spesa
